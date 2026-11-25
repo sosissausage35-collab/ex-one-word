@@ -1,8 +1,8 @@
 # buffering
 
 [![make.fun](https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7.svg)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7)
-[![rank](https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7/sosissausage35-collab/u-puan-describe-your-ex-in-one-word-9fc6ebe7/rank.svg)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7)
-[![reward](https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7/sosissausage35-collab/u-puan-describe-your-ex-in-one-word-9fc6ebe7/reward.svg)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7)
+[![rank](https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7/sosissausage35-collab/ex-one-word/rank.svg)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7)
+[![reward](https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7/sosissausage35-collab/ex-one-word/reward.svg)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7)
 
 Entry for the [Describe Your Ex in One Word](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7) bounty on make.fun — a $2 pool shared by the top 5, closing 2026-11-27T06:40:00Z.
 
